@@ -1,0 +1,35 @@
+﻿# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+.vscode/
+.vs/
+*.user
+*.suo
+
+# Ignore build output directories
+[Bb]in/
+[Oo]bj/
+
+# Ignore MSTest result files
+TestResults/
+
+# Ignore NuGet packages directory
+packages/
+
+# Ignore temporary files
+*.tmp
+*.log
+*.temp
+
+# Ignore OS-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Ignore other unwanted files
+*.nupkg
+
+# Ignore specific library files if they are not needed in source control
+libmongocrypt.dylib
+libmongocrypt.so
+mongocrypt.dll
