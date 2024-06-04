@@ -1,2 +1,2 @@
-Testing Automation Framework for nopCommerce using MS Test.
+Testing Automation Framework for nopCommerce using Selenium with C#.
 
